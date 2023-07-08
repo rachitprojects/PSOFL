@@ -1,0 +1,11 @@
+scp rachit@10.10.0.4:/home/rachit/FedAdapt/FL_training/cpuout.txt ./cpuoutserver.txt
+scp ubunturecover@192.168.10.47:/home/ubunturecover/Desktop/FedAdapt_loadclient/FL_training/cpuout.txt ./cpuoutdev1.txt
+scp fedtest4@192.168.10.23:/home/fedtest4/Desktop/FedAdapt_loadclient/FL_training/cpuout.txt ./cpuoutdev2.txt
+scp rachit@192.168.10.44:/home/rachit/Desktop/FedAdapt_loadclient/FL_training/cpuout.txt ./cpuoutdev3.txt
+scp aicfed@192.168.10.49:/home/aicfed/Desktop/FedAdapt_loadclient/FL_training/cpuout.txt ./cpuoutdev4.txt
+scp aicfed@192.168.10.28:/home/aicfed/Desktop/FedAdapt_loadclient/FL_training/cpuout.txt ./cpuoutdev5.txt
+scp aicfed@192.168.10.22:/home/aicfed/Desktop/FedAdapt_loadclient/FL_training/cpuout.txt ./cpuoutdev6.txt
+scp aicfed@192.168.10.24:/home/aicfed/Desktop/FedAdapt_loadclient/FL_training/cpuout.txt ./cpuoutdev7.txt
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedAdapt_loadclient/FL_training/cpuout.txt ./cpuoutdev8.txt
+scp rachit@192.168.10.40:/home/rachit/Desktop/FedAdapt_loadclient/FL_training/cpuout.txt ./cpuoutdev9.txt
+scp aicfed@192.168.10.21:/home/aicfed/Desktop/FedAdapt_loadclient/FL_training/cpuout.txt ./cpuoutdev10.txt

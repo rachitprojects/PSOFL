@@ -1,0 +1,53 @@
+ifconfig
+sudo apt install net-tools
+ifconfig
+sudo conda_install.sh
+sudo ./conda_install.sh
+chmod a+x conda_install.sh 
+sudo ./conda_install.sh 
+nano conda_install.sh 
+ssh rachit@10.10.0.4
+scp rachit@10.10.0.4:/home/rachit/Miniconda3-py38_4.12.0-Linux-x86_64.sh
+scp rachit@10.10.0.4:/home/rachit/Miniconda3-py38_4.12.0-Linux-x86_64.sh .
+ls
+nano conda_install.sh 
+mv Miniconda3-py38_4.12.0-Linux-x86_64.sh ../Desktop/
+cd ../Desktop/
+bash Miniconda3-py38_4.12.0-Linux-x86_64.sh 
+exec bash
+ls
+cd Desktop/
+ls
+cd ..
+cd Downloads/
+ls
+sh conda_install.sh 
+conda install pytorch torchvision cpuonly -c pytorch
+ls
+conda install tqdm
+conda install scikit-learn
+ls
+sudo apt-get install git
+clear
+ifconfig
+ls
+cd Desktop/
+ls
+sudo apt install ssh
+ls
+fsdaclear
+clear
+ls
+cd Desktop/
+ls
+mkdir FedL
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+free -m | head -n 2
+cd ~
+cd Desktop/
+ls
+clear
+ping 10.10.0.4
+ifconfig

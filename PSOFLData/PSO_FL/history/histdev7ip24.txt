@@ -1,0 +1,1265 @@
+ifconfig
+sudo apt install net-tools
+ifconfig
+sudo conda_install.sh
+sudo ./conda_install.sh
+chmod a+x conda_install.sh 
+sudo ./conda_install.sh 
+nano conda_install.sh 
+ssh rachit@10.10.0.4
+scp rachit@10.10.0.4:/home/rachit/Miniconda3-py38_4.12.0-Linux-x86_64.sh
+scp rachit@10.10.0.4:/home/rachit/Miniconda3-py38_4.12.0-Linux-x86_64.sh .
+ls
+nano conda_install.sh 
+mv Miniconda3-py38_4.12.0-Linux-x86_64.sh ../Desktop/
+cd ../Desktop/
+bash Miniconda3-py38_4.12.0-Linux-x86_64.sh 
+exec bash
+ls
+cd Desktop/
+ls
+cd ..
+cd Downloads/
+ls
+sh conda_install.sh 
+conda install pytorch torchvision cpuonly -c pytorch
+ls
+conda install tqdm
+conda install scikit-learn
+ls
+sudo apt-get install git
+clear
+ifconfig
+ls
+cd Desktop/
+ls
+sudo apt install ssh
+ls
+fsdaclear
+clear
+ls
+cd Desktop/
+ls
+mkdir FedL
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+free -m | head -n 2
+cd ~
+cd Desktop/
+ls
+clear
+ping 10.10.0.4
+ifconfig
+clear
+ls
+cd Desktop/
+ls
+mkdir AdaptFL
+cd AdaptFL/
+ls
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/Communicator.py 
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/Communicator.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/Communicator.py config.py
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/Communicator.py vgg.py
+ls
+rm vgg.py 
+rm config.py 
+ls
+rm Communicator.py 
+ls
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/Communicator.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/vgg.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/utils.py .
+ls
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/config.py .
+ls
+mkdir FL_training
+ls
+cd FL_training/
+ls
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/FL_training/Client.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/FL_training/Adapt_clientrun.py .
+ls
+nano Client.py 
+nano Adapt_clientrun.py 
+clear
+cd ~
+cd Desktop/AdaptFL/FL_training/
+python3 Adapt_clientrun.py 
+ping 10.10.0.4
+sudo dhclient -v
+ping 10.10.0.4
+sudo dhclient -v
+pkill -x sar
+clear
+ping 10.10.0.4
+clear
+ping 10.10.0.4
+clear
+firefix
+firefox
+export DISPLAY=:0
+firefox
+export DISPLAY=:0
+gedit
+DISPLAY=:0 nohup firefox
+nano nohup.out 
+gedit
+DISPLAY=:0 firefox
+$ sudo apt install libcanberra-gtk-module libcanberra-gtk3-module -y
+sudo apt install
+sudo apt install libcanberra-gtk-module
+sudo apt-get update
+sudo apt install libcanberra-gtk-module
+DISPLAY=:0 gedit
+rachit23
+clear
+cd Desktop/FedL/
+ls
+cd FL_training/
+ls
+clear
+nano Federated_clientrun.py 
+python3
+free -m
+clear
+nano Federated_clientrun.py 
+sar -u 1
+sudo apt install sysstat
+sar -u 1
+sar -r 1
+clear
+ls
+clear
+nano Federated_clientrun.py 
+nano Client.py 
+clear
+nano Client.py 
+nano Federated_clientrun.py 
+cat /home/rachit/Desktop/netscript2.sh 
+cat ~/Desktop/netscri
+clear
+python3
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+free -m | head -n 2
+cd ~
+clar
+clear
+cd ~
+clear
+cd ~
+cd Desktop/
+nano netscript2.sh
+cd ~
+cd Desktop/
+cd FedL/
+cd FL_training/
+clear
+nano Federated_clientrun.py 
+python3 Federated_clientrun.py 
+nano Federated_clientrun.py 
+python3 Federated_clientrun.py 
+pkill -x sar
+ping 10.10.0.4
+clear
+python3 Federated_clientrun.py 
+pkill -x sar
+pkill -x stress-ng
+clear
+free -m
+clear
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+lscpu | tail -n +4 | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+cat ../../netscript2.sh 
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+cat ../../netscript2.sh 
+clear
+ifconfig | head -n 2
+cat Federated_clientrun.py | tail -n +20 | head -n 2
+cat Federated_clientrun.py | tail -n +22 | head -n 2
+cat Federated_clientrun.py | tail -n +26 | head -n 2
+cat Federated_clientrun.py | tail -n +30 | head -n 2
+cat Federated_clientrun.py | tail -n +29 | head -n 2
+clear
+cat Federated_clientrun.py | tail -n +29 | head -n 2
+clear
+ifconfig | head -n 2
+cat Federated_clientrun.py | tail -n +29 | head -n 2
+clear
+df -H
+cd /var
+ls
+cd log/
+ls
+cd ..
+sudo rm -r log
+df -H
+sudo apt-get autoremove
+clear
+cd ~
+ls
+cd Desktop/
+cd FedL/
+ls
+cd FL_training/
+nano Federated_clientrun.py 
+pkill -x sar
+pkill -x stress-ng
+nohup python3 -u Federated_clientrun.py > fedlunresinclipmem.out & 
+cat fedlunresinclipmem.out 
+nano Federated_clientrun.py 
+firefox
+DISPLAY=:0 firefox
+export DISPLAY=:0
+firefox
+ping 10.10.0.4
+sudo apt-get update
+sudo apt install links
+sudo apt install links --fix-missing
+cd /var
+ls
+sudo mkdir log
+cd ..
+sudo apt install links --fix-missing
+shutdown now
+sudo shutdown now
+ping 10.10.0.4
+rachit23
+clear
+ping 10.10.0.4
+clear
+cd Desktop/
+cd FedL/
+ls
+cd FL_training/
+ls
+nano Federated_clientrun.py 
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+er| tail -n +30 | head -n 2
+clear
+ifconfig | head -n 2
+cat Federated_clientrun.py | tail -n +30 | head -n 2
+clear
+ifconfig | head -n 2
+cat ../../netscript2.sh 
+clear
+cd ..
+cat netscript2.sh 
+./ne
+chmod a+x netscript2.sh 
+clear
+sudo wondershaper clear ens33
+sudo apt-get install wondershaper 
+wondershaper
+sudo wondershaper clear en33
+clear
+./netscript2.sh 
+ls
+clear
+sudo wondershaper clear ens33
+./netscript2.sh 
+cd FedL/
+ls
+cd FL_training/
+ls
+clear
+sar -r 1
+clear
+sar -u 1
+clear
+nano Federated_clientrun.py 
+sar -u 1
+clear
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+nohup python3 -u Federated_clientrun.py > fedlres24062023.out & 
+cat fedlres24062023.out 
+history
+cat ~/.bash_history 
+shopt -a 
+history -a 
+history
+ls
+cd Desktop/
+ls
+cd FedL/FL_training/
+ls
+nano Federated_clientrun.py 
+cd ..
+cd FL_training/
+history 
+history -a
+history
+exit
+history -a
+history
+echo $HISTFILE
+rachit23
+clear
+history
+echo $HISTSIZE
+echo $HISTCONTROL
+rachit23
+clear
+cd Desktop/
+ifconfig
+clear
+cd FedL/
+ls
+cd FL_training/
+ls
+nano Federated_clientrun.py 
+cd ..
+ifconfig | head -n 2
+ls
+mkdir splitfedlearning
+clear
+ifconfig | head -n 2
+ls
+cd splitfedlearning
+ls
+scp aicfed@192.168.10.54:/home/aicfed/splitfedlearning/client_run.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitfedlearning/client_run.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitfedlearning/Communicator.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitfedlearning/config.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitfedlearning/models.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitfedlearning/SplitFedClient.py .
+ls
+nano SplitFedClient.py 
+nano client_run.py 
+ls
+nano client_run.py 
+cd ~
+cd Desktop/
+cd splitfedlearning/
+ls
+nano client_run.py 
+nano SplitFedSer
+nano SplitFedClient.py 
+sudo wondershaper clear ens33
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+ls
+nano client_run.py 
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+ls
+clear
+ifconfig | head -n 2
+cat client_run.py | tail -n +25 | head -n 2
+cat client_run.py | tail -n +29 | head -n 2
+cat client_run.py | tail -n +30 | head -n 2
+clear
+cat client_run.py | tail -n +30 | head -n 2
+clear
+ifconfig | head -n 2
+cat client_run.py | tail -n +30 | head -n 2
+clear
+ifconfig | head -n 2
+cat ../netscript2.sh 
+pkill -x sar
+clear
+ls
+clear
+ls
+clear
+nano client_run.py 
+clear
+pkill -x sar
+clear
+pkill -x sar
+pkill -x stress-ng
+sudo wondershaper clear ens33
+clear
+pkill -x stress-ng
+clear
+pkill -x sar
+pkill -x stress-ng
+ping 10.10.0.4
+pkill -xs ar
+pkill -x sar
+pkill -xsar
+pkill -x sar
+pkill -x stress-ng
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+cat ~/Desktop/netscript2.sh 
+clear
+ifconfig | head -n 2
+cat client_run.py | tail -n +30 | head -n 2
+clear
+pkill -x sar
+pkill -x stress-ng
+sudo wondershaper clear ens33
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+clear
+nohup python3 -u client_run.py > sflunres25062023.out & 
+ping 10.10.0.4
+cat sflunres25062023.out 
+ls
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitfedlearning/utils.py .
+ls
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+clear
+history
+clear
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+pkill -x sar
+nohup python3 -u client_run.py > sflunres25062023.out & 
+pkill -x sar
+pkill -x python3
+pkill -x sar
+pkill -x python3
+cat sflunres25062023.out 
+pkill -x sar
+pkill -x python3
+pkill -x sar
+pkill -x python3
+nohup python3 -u client_run.py > sflunres25062023.out & 
+cat sflunres25062023.out 
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+nano client_run.py 
+clear
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u client_run.py > sflunres25062023.out & 
+history
+ping 10.10.0.4
+clear
+history
+cd Desktop/
+cd splitfedlearning/
+pkill -x sar
+pkill -x stress-ng
+history
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+cat client_run.py | tail -n +30 | head -n 2
+cat client_run.py | tail -n +31 | head -n 2
+clear
+ifconfig | head -n 2
+cat client_run.py | tail -n +31 | head -n 2
+clear
+ifconfig | head -n 2
+cat ../netscript2.sh 
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+cat client_run.py | tail -n +31 | head -n 2
+history
+sudo wondershaper clear ens33
+cd ..
+./netscript2.sh 
+history
+cd splitfedlearning
+ls
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u client_run.py > sfl250620231945res.out & 
+clear
+cd Desktop/
+ls
+mkdir splitlearning
+cd splitlearning
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitlearning/client_manage.py .
+ls
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitlearning/Communicator.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitlearning/config.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitlearning/utils.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitlearning/models.py .
+ls
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/splitlearning/socket_client.py .
+ls
+cd ~
+clear
+cd splitlearning
+cd Desktop/splitlearning/
+nano client_manage.py 
+ls
+nano client_manage.py 
+sar -r 1
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+cat ../netscript2.sh 
+clear
+cat ../netscript2.sh 
+clar
+clear
+ifconfig | head -n 2
+cat client_manage.py | tail -n +30 | head -n 2
+clear
+ifconfig | head -n 2
+cat client_manage.py  | tail -n +30 | head -n 2
+clear
+history 
+pkill -x sar
+pkill -x stress-ng
+cd ..
+./netscript2.sh 
+history
+cd splitlearning/
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+sar 
+sar -r 1
+sar -u 1
+pkill -x sar
+nano utils.py 
+pkill -x sar
+sudo wondershaper clear ens33
+python3 client_manage.py 
+pkill -x sar
+pkill -x python3
+history 
+pkill -x python3
+sudo wondershaper clear ens33
+cd ..
+./netscript2.sh 
+ping 10.10.0.4
+clear
+sudo wondershaper clear ens33
+clear
+sudo wondershaper clear ens33
+pkill -x sar
+pkill -x stress-ng
+cd Desktop/splitlearning
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+sudo wondershaper clear ens33
+cd ..
+./netscript2.sh 
+cd splitlearning/
+history
+nohup python3 -u client_manage.py > slres2506233final.out & 
+rachit23
+ping 10.10.0.4
+pkill -x sar
+cd Desktop/splitlearning
+ls
+cat slres2506233final.out 
+du -sb cpuout.txt 
+df -H
+sudo apt-get autoremove
+cd /var
+ls
+cd cache/
+ls
+cd ..
+rm -r cache/
+sudo rm -r cache/
+sudo mkdir cache
+df -H
+cd ~
+cd Desktop/FedAdap
+ls
+cd Desktop/
+ls
+mkdir FedAdapt_loadclient
+ls
+cd FedAdapt_loadclient/
+scp aicfed@192.168.10.54:/home/Desktop/FedAdapt_loadclient/Communicator.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedAdapt_loadclient/Communicator.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedAdapt_loadclient/config.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedAdapt_loadclient/PPO.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedAdapt_loadclient/utils.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedAdapt_loadclient/vgg.py .
+ls
+mkdir FL_training
+cd FL_training/
+ls
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedAdapt_loadclient/FL_training/Client.py .
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedAdapt_loadclient/FL_training/FedAdapt_clientrun.py .
+ls
+cd ..
+mkdir FL_training
+mkdir RL_training
+ls
+cd RL_training
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedAdapt_loadclient/RL_training/RL_clientrun.py .
+ls
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedAdapt_loadclient/RL_training/RLEnv.py .
+ls
+nano RL_clientrun.py 
+cd ..
+nano config.py 
+cd FL_training/
+nano FedAdapt_clientrun.py 
+cd RL
+cd ~
+cd Desktop/FedAdapt_loadclient/RL_training/
+cd ~
+cd Desktop/FedAdapt_loadclient/RL_training/
+nano RL_clientrun.py 
+cd ..
+cd FL_training/
+ls
+nano FedAdapt_clientrun.py clien
+nano FedAdapt_clientrun.py 
+cd ~
+cd ~/Desktop/FedAdapt_loadclient/RL_training/
+ls
+sudo wondershaper clear ens33
+pkill -x sar
+pkill -x python3
+pkill -x pytho3
+pkill -x python3
+history
+cd ../..
+cd FedAdapt_loadclient/
+cd FL_training/
+python3 FedAdapt_clientrun.py 
+nano FedAdapt_clientrun.py 
+python3 FedAdapt_clientrun.py 
+nano ../config.py 
+python3 FedAdapt_clientrun.py 
+nano ../config.py 
+pkill -x sar
+clear
+cd ..
+cd RL_training/
+cd ..
+./netscript2.sh 
+pkill -x python3
+history
+cd FedAdapt_loadclient/RL_training/
+sudo wondershaper clear ens33
+cd Desktop/
+ls
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+cat netscript2.sh 
+cd FedAdapt_loadclient/RL_training/
+cd ~
+cd FedAdapt_loadclient/
+cd Desktop/
+cd FedAdapt_loadclient
+cd RL_training/
+clear
+ifconfig | head -n 2
+cat RL_clientrun.py | tail -n +30 | head -n 2
+cat RL_clientrun.py | tail -n +22 | head -n 2
+cat RL_clientrun.py | tail -n +24 | head -n 2
+cat RL_clientrun.py | tail -n +26 | head -n 2
+cat RL_clientrun.py | tail -n +27 | head -n 2
+clear
+ifconfig | head -n 2
+cat RL_clientrun.py | tail -n +27 | head -n 2
+cd ..
+./netscript2.sh 
+cd FedAdapt_loadclient/
+cd RL_training/
+history
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+pkill -x python3
+pkill -x stress-ng
+nohup python3 -u RL_clientrun.py > rlwostr26062023.out & 
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+sudo wondershaper clear ens33
+history
+cd ~/Desktop/
+./netscript2.sh 
+cd FedAdapt_loadclient/RL_training/
+cd ~
+cd Desktop/FedAdapt_loadclient/RL_training
+history
+nohup python3 -u RL_clientrun.py > rlwostr26062023.out & 
+cd ..
+cd FL_training/
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptwostr260620231806.out & 
+rachit23
+history
+history -a 
+history
+cat .bash_history 
+clear
+cd FedAdapt
+cd Desktop/FedAdapt_loadclient/
+ls
+cd FL_training/
+nano FedAdapt_clientrun.py 
+cd Desktop/FedAdapt_loadclient/
+ls
+cd FL_training/
+ls
+nano FedAdapt_clientrun.py 
+cd ..
+cd RL_training/
+stress-ng
+sudo apt install stress-ng
+stress-ng
+pkill -x stress-ng
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+cat ~/Desktop/netscript2.sh 
+cd ..
+cd FL_training/
+clear
+ifconfig | head -n 2
+cat FedAdapt_clientrun.py | tail -n +27 | head -n 2
+cd ..
+cd RL_training/
+clear
+cat RL_clientrun.py | tail -n +27 | head -n 2
+nano RL_clientrun.py 
+clear
+cd ..
+cd FL_training/
+cd ..
+cd RL_training/
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+cd ..
+./netscript2.sh 
+cd FedAdapt_loadclient/
+cd RL_training/
+history
+nohup python3 -u RL_clientrun.py > rlcpustress123327062023.out &
+pkill -x sar
+ps
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+sudo wondershaper clear ens33
+cd ..
+./netscript2.sh 
+cd FedAdapt_loadclient/
+cd RL_training/
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+nohup python3 -u RL_clientrun.py > rlcpustress123327062023.out &
+clear
+cd ..
+cd FL_training/
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+ps
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptcpustress27062023.out & 
+nano FedAdapt_clientrun.py 
+cd Desktop/FedAdapt_loadclient/
+nano Communicator.py 
+cd FL_training/
+nano Client.py 
+nano FedAdapt_clientrun.pyclie
+nano FedAdapt_clientrun.py 
+python3 FedAdapt_clientrun.py --offload True 
+pkill -x sar
+scp fedtest4@192.168.10.23:/home/fedtest4/Desktop/FedAdapt_loadclient/FL_training/netstress1536.pickle .
+python3 FedAdapt_clientrun.py --offload True 
+pkill -x sar
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+pkill -x sar
+clear
+ifconfig | head -n 2
+clear
+cat ~/Desktop/netscript2.sh 
+clear
+ifconfig | head -n 2
+cat ~/Desktop/netscript2.sh
+cd ..
+cd RL_training/
+cat RL_clientrun.py | tail -n +30 | head -n 2
+cat RL_clientrun.py | tail -n +27 | head -n 2
+clear
+cat RL_clientrun.py | tail -n +27 | head -n 2
+clear
+ifconfig | head -n 2
+cat RL_clientrun.py | tail -n +27 | head -n 2
+clear
+history
+sudo wondershaper clear ens33
+cd ..
+./netscript2.sh 
+cd FedAdapt_loadclient/RL_training/
+cd ~
+cd Desktop/
+cd FedAdapt_loadclient/
+cd RL_training/
+history
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+scp fedtest4@192.168.10.23:/home/fedtest4/Desktop/FedAdapt_loadclient/FL_training/netstress1536.pickle .
+nohup python3 -u RL_clientrun.py > rlnetstress27062023.out &
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+pkill -x python3
+pkill -x stress-ng
+sudo wondershaper clear ens33
+cd ..
+./netscript2.sh 
+history
+cd FedAdapt_loadclient/
+cd RL_training/
+nohup python3 -u RL_clientrun.py > rlnetstress27062023.out &
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+cd ~
+cd Desktop/FedAdapt_loadclient/
+cd FL_training/
+history
+nohup python3 FedAdapt_clientrun.py --offload True > fedadaptnetstress195327062023.out & 
+rachit23
+history
+clear
+pkill -x sar
+pkill -x ar
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+cat Desktop/netscript2.sh 
+cd Desktop/splitlearning/
+clear
+pkill -x sar
+pkill -x stress-ng
+sudo wondershaper clear ens33
+cd ..
+./netscript2.sh 
+history
+history -a
+cat ~/.bash_history 
+cd splitlearning
+cat ~/.bash_history 
+nohup python3 -u client_manage.py > slwostr28062023111.out & 
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+pkill -x stress-ng'
+pkill -x stress-ng
+cat client_manage.py  | tail -n +30 | head -n 2
+clear
+ifconfig | head -n 2
+cat client_manage.py  | tail -n +30 | head -n 2
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+pkill -x sar
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+cat ~/.bash_history 
+nohup python3 -u client_manage.py > slwostr28062023111.out & 
+ping 10.10.0.4
+sudo dhclient -v
+ping 10.10.0.4
+sudo dhclient -v
+ifconfig\
+ifconfig
+sudo dhclient -v
+ping 10.10.0.4
+ifconfig
+clear
+rachit23
+clear
+cd Desktop/FedAdapt_loadclient/
+ls
+cd RL_training/
+ls
+cd ..
+sudo wondershaper clear ens33
+cat ~/.bash_history 
+history -a
+cat ~/.bash_history 
+./netscript2.sh 
+history -a
+cat ~/.bash_history 
+cd FedAdapt_loadclient/
+cd RL_training/
+pkill -x sar
+cd RL_training/
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nano ../config.py 
+nano RL_clientrun.py 
+pkill -x sar
+clear
+ifconfig | head -n 2
+cat RL_clientrun.py | tail -n +27 | head -n 2
+clear
+cd ../FL_training/
+cd ../RL_training/
+nano ../FL_training/
+nano ../FL_training/FedAdapt_clientrun.py
+clear
+sudo wondershaper clear ens33
+history
+cat ~/.bash_history 
+history -a
+cat ~/.bash_history 
+pkill -x sar
+cat ~/.bash_history 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u RL_clientrun.py > rlmemstress290620230045.out & 
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+cd ..
+sudo wondershaper clear ens33
+./netscript2.sh 
+history -a
+cat ~/.bash_history 
+cd FedAdapt_loadclient/
+cd RL_training/
+nohup python3 -u RL_clientrun.py > rlmemstress290620230045.out & 
+cat ~/.bash_history 
+history -a 
+cat ~/.bash_history 
+cd ..
+cd FL_training/
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+history -a 
+cat ~/.bash_history 
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptmemstress290620232019.out & 
+cat FedAdapt_clientrun.py | tail -n +30 | head -n 2
+cat FedAdapt_clientrun.py | tail -n +34 | head -n 2
+cat FedAdapt_clientrun.py | tail -n +35 | head -n 2
+history -a
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+cd Desktop/
+cd FedAdapt_loadclient/
+nano Communicator.py 
+cd FL_training/
+nano FedAdapt_clientrun.py
+nano Client.py 
+nano FedAdapt_clientrun.py
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+cat ~/Desktop/netscript2.sh 
+clear
+cd ..
+cd RL_training/
+clear
+ifconfig | head -n 2
+cat RL_clientrun.py | tail -n +30 | head -n 2
+cat RL_clientrun.py | tail -n +27 | head -n 2
+clear
+ifconfig | head -n 2
+cat RL_clientrun.py | tail -n +27 | head -n 2
+pkill -x sar
+cd Desktop/FedAdapt_loadclient/
+nano config.py 
+cd FL_training/
+nano FedAdapt_clientrun.py
+clear
+ifconfig
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+cat ../../netscript2.sh 
+clear
+ifconfig | head -n 2
+cat ../../netscript2.sh 
+cat Fedcat FedAdapt_clientrun.py | tail -n +27 | head -n 2
+cat Fedcat FedAdapt_clientrun.py | tail -n +30 | head -n 2
+cat Fedcat FedAdapt_clientrun.py | tail -n +35 | head -n 2
+clear
+ifconfig | head -n 2
+cat Fedcat FedAdapt_clientrun.py | tail -n +35 | head -n 2
+nano FedAdapt_clientrun.py
+nano ../config.py 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+clear
+pkill -x stress-ng
+pkill -x sar
+clear
+pkill -x sar
+
+pkill -x python3
+clear
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptmemstress45629062023.out & 
+pkill -x sar
+ifconfig | head -n 2
+ls
+cd Desktop/
+cd FedAdapt_loadclient/
+nano config.py 
+df -H
+nano config.py 
+ls
+cd FL_training/
+ls
+nano FedAdapt_clientrun.py
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+history -a 
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptmemstress10629062023.out & 
+pkill -x sar
+clear
+ls
+cd Desktop/
+cd FedAdapt_loadclient/
+ls
+nano config.py 
+clear
+cd FL_training/
+nano FedAdapt_clientrun.py
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+history -a
+clear
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptmemstress41929062023.out &
+pkill -x sar
+nano FedAdapt_clientrun.py
+nano ../config.py 
+nano FedAdapt_clientrun.py
+pkill -x python3
+pkill -x sar
+pkill -x python3
+pkill -x sar
+clear
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptmemstress55929062023.out & 
+pkill -x sar
+nano ../config.py 
+nano FedAdapt_clientrun.py
+nano ../config.py 
+clear
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+clear
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptmemstress7329062023r99.out & 
+history -a
+cat ~/.bash_history 
+rachit23
+history
+history -a
+clear
+cd Desktop/FedAdapt_loadclient/
+ls
+cd FL_training/
+ls
+nano FedAdapt_clientrun.py
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2
+clear
+ifconfig | head -n 2
+cat ~/Desktop/netscript2.sh 
+clear
+cd ..
+cd RL_training/
+ls
+clear
+ifconfig | head -n 2
+cat RL_clientrun.py | tail -n +30 | head -n 2
+cat RL_clientrun.py | tail -n +27 | head -n 2
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+sudo wondershaper clear ens33
+clear
+nohup python3 -u RL_clientrun.py > rlunres22102906.out & 
+cat rlunres22102906.out 
+nano ../config.py 
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+nohup python3 -u RL_clientrun.py > rlunres22102906.out & 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+cd ..
+cd FL_training/
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptunresfinal23082906.out & 
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptunresfinal23082906.out & 
+history
+cat ~/.bash_history 
+cd Desktop/
+cd AdaptFL/
+cd FL_training/
+nano Adapt_clientrun.py 
+sar
+sar -u 1
+nano ../utils.py 
+cd ..
+ls
+nano utils.py 
+ls
+cd FL_training/
+ls
+nano Adapt_clientrun.py 
+sar -r 1
+sudo wondershaper clear ens33
+cler
+clear
+ifconfig | head -n 2
+lscpu | tail -n +4 | head -n 2
+clear
+ifconfig | head -n 2
+free -m | head -n 2 
+clear
+ifconfig | head -n 2
+cat ~/Desktop/netscript2.sh 
+clear
+ifconfig | head -n 2
+cat Adapt_clientrun.py | tail -n +27 | head -n 2
+cat Adapt_clientrun.py | tail -n +28 | head -n 2
+clear
+ifconfig | head -n 2
+cat Adapt_clientrun.py | tail -n +28 | head -n 2
+clear
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u Adapt_clientrun.py > psofinalpapersubmit30062023106.out & 
+cat cpuout.txt 
+history -a

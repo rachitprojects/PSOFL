@@ -1,0 +1,2016 @@
+cd splitfedlearning/
+nano sflclient741.out 
+cd ..
+ls
+cd ..
+ls
+cd fedadapt
+ls
+cd device3
+ls
+cd FedAdapt_loadclient/FL_training/
+ls
+nano fedadaptclientcpustress1027.out 
+nano fedadaptnetstress1112904.out 
+ls
+cd ..
+ls
+cd ..
+ls
+cd sl/
+ls
+cd device3
+ls
+cd splitlearning/
+ls
+nano slclientres135.out 
+ls
+cd ,,
+cd ..
+ls
+cd sfl/
+ls
+cd device3
+ls
+cd splitfedlearning/
+ls
+nano sflclientcpustress943.out 
+cd ..
+cd fl
+cd ..
+cd fl/
+ls
+cd device4
+ls
+cd FedL/
+ls
+cd FL_training/
+nano fedlmem1929.out 
+cd ../../../../sfl/
+ls
+cd device4
+ls
+cd splitfedlearning
+ls
+nano sflclientcpustress1221.out 
+cd ../../../fedadapt/device4/FedAdapt_loadclient/
+ls
+cd FL_training/
+ls
+nano fedadaptclientres1043.out 
+ls
+cd ../../../../sl/device4
+ls
+cd splitlearning/
+ls
+nano slclientres259.out 
+nano slclientres330.out 
+nano slnetstress3042703.out 
+cd ..
+ls
+cd fl/
+cd device5
+ls
+cd FedL/
+ls
+cd FL_training/
+ls
+nano fedclientres1133.out 
+cd ../../../sfl
+cd ../../../../sfl/device5/
+cd splitfedlearning/
+ls
+nano sflclientnetstress22152303.out 
+cd ../../../fl/device5/
+nano fedclientres1133.out 
+cd FedL/
+nano fedclientres1133.out 
+ls
+cd FL_training/
+nano fedclientres1133.out 
+cd ../../../../fedadapt/device5/FedAdapt_loadclient/FL_training/
+ls
+nano fedadaptclientres238.out 
+nano fedadaptreswostr22512104.out 
+nano fedadaptnetstress1112904.out 
+c d..
+cd ..
+cd sl/
+ls
+cd device5/
+ls
+cd splitlearning
+ls
+nano slnetstress2552703.out 
+nano slnetstress3042703.out 
+cd ..
+ls
+cd fl/
+ls
+cd device6
+ls
+cd FedL/
+ls
+cd FL_training/
+ls
+nano fedclientcpustress614.out 
+ls
+cd ../../../../sfl/device6/
+ls
+cd splitfedlearning/
+ls
+nano sflclientcpustress959.out 
+cd ../../../fl/device6/FedL/
+ls
+cd FL_training/
+ls
+nano fedlmem1929.out 
+cd ..
+cd fedadapt/
+cd device6/FedAdapt_loadclient/FL_training/
+ls
+nano fedadaptcpu17062404.out 
+ls
+cd ../..
+cd ..
+ls
+cd sl/
+ls
+cd device6
+ls
+cd splitlearning
+ls
+nano slclientres135.out 
+nano slnetstress3042503.out 
+nano slclientres345.out 
+cd ../../../sfl/
+ls
+cd device6
+ls
+cd splitfedlearning
+lsp
+ls
+nano sflclientcpustress633.out 
+cd ..
+cd fl/
+ls
+cd device6
+;s
+ls
+cd FedL/
+ls
+cd FL_training/
+ls
+nano fedclientres1133.out 
+ls
+cd ..
+ls
+cd device7
+ls
+cd FedL/
+ls
+cd FL_training/
+ls
+nano fedlmemstress1542003.out 
+ls
+cd ..
+cd sfl/
+ls
+cd device7
+ls
+cd splitfedlearning
+ls
+nano sflclientcpustress943.out 
+cd ..
+cd fedadapt/
+ls
+cd device7
+ls
+cd FedAdapt_loadclient/
+ls
+cd FL_training/
+ls
+nano fedadaptclientres250.out 
+nano fedadaptnet112805.out 
+ls
+nano net15. 
+nano memout.txt 
+cd ..
+ls
+cd sl/device7/splitlearning/
+ls
+nano slclientcpustress12112303.out 
+nano slclientcpustress1182203.out 
+ls
+cd ..
+cd fl/
+ls
+cd device7/
+ls
+cd FedL/
+ls
+cd FL_training/
+;s
+cd ..
+cd FL_training/
+ls
+nano Federated_clientrun.py 
+nano fedlnetstress17092303.out 
+cd ..
+cd device8
+ls
+cd FedL/
+ls
+cd FL_training/
+ls
+nano fedlmemstress12441903.out 
+cd ..
+cd sfl/
+ls
+cd device8
+ls
+cd splitfedlearning
+ls
+nano sflclientcpustress943.out 
+cd ..
+ls
+cd ..
+ls
+cd fedadapt/
+ls
+cd device8
+ls
+cd FedAdapt_loadclient/
+ls
+cd FL_training/
+ls
+nano fedadaptclientres238.out 
+nano fedadaptclientres224.out 
+ls
+cd ..
+cd sl/device8/
+ls
+cd splitlearning/
+ls
+nano slclientres620503.out 
+cd ..
+cd sfl/device8/
+ls
+cd splitfedlearning
+ls
+nano sflclientcpustress942.out 
+cd ..
+cd fl/
+ls
+cd device8/
+ls
+cd FedL/
+cd FL_training/
+nano fedclientcpustress628.out 
+ls
+cd ..
+cd fl/device9/
+ls
+cd FedL/
+ls
+cd FL_training/
+ls
+nano fedclientcpustress628.out 
+cd ..
+cd sfl/
+ls
+cd device9 
+ls
+cd splitfedlearning/
+ls
+nano sflclientcpustress959.out 
+cd ..
+ls
+cd ../../
+cd fedadapt/
+ls
+cd device9
+ls
+cd FedAdapt_loadclient/
+cd FL_training/
+nano fedadaptres1031004.out 
+;s
+ls
+nano fedadaptres1031004.out 
+cd ..
+cd sl/device9/
+ls
+cd splitlearning/
+ls
+nano slcpustress1122103.out 
+cd ..
+cd fl/device9/FedL/
+ls
+cd FL_training/
+ls
+nano fedlmemstress9031903.out 
+cd ..
+cd sfl/
+ls
+cd device9
+ls
+cd splitfedlearning
+ls
+nano sflclientcpustress1247.out 
+cd ..
+ls
+cd fl/
+ls
+cd device10
+ls
+cd FedL/
+ls
+cd FL_training/
+ls
+nano fedclientres1133.out 
+ls
+nano fedclientres1213.out 
+cd ..
+cd sfl/
+ls
+cd device10
+ls
+cd splitfedlearning
+ls
+nano ../../../fl/device10/FedL/FL_training/fedclientres1213.out 
+ls
+nano sflclientcpustress633.out 
+cd ..
+ls
+cd fedadapt/
+ls
+cd device10
+ls
+cd FedAdapt_loadclient/
+ls
+cd FL_training/
+ls
+nano fedadaptclientres1043.out 
+ls
+cd ..
+cd sl/
+ls
+cd device10
+ls
+nano splitlearning/
+cd splitlearning
+ls
+nano slclientcpustress3081903.out 
+nano slclientres330.out 
+nano slclientres345.out 
+cd ..
+cd fl/
+ls
+cd device10/FedL/
+ls
+cd FL_training/
+ls
+nano fedlmemstress933.out 
+cd ../../../../sfl/device10/splitfedlearning/
+ls
+nano sflclientcpustress633.out 
+cd ..
+cd nishant_output_backup/sl/
+ls
+cd device1-
+cd device10
+ls
+cd splitlearning
+ls
+nano slcpustress12232303.out 
+cd ..
+cd fedadapt/
+cd device10
+ls
+cd FedAdapt_loadclient/
+ls
+cd FL_training/
+ls
+nano fedadaptclientres250.out 
+cd ..
+cd fl/
+ls
+cd device10
+ls
+cd FedL/
+ls
+cd FL_training/
+ls
+nano fedclientstress10.out 
+cd ..
+cd sfl/
+cd device10/
+cd splitfedlearning/
+nano sflclientcpustress959.out 
+cd ..
+cd sl/
+cd device10/splitlearning
+ls
+nano slcpustress3392103.out 
+cd ..
+c d..
+cd ..
+cd fl/
+ls
+cd device10
+cd FedL/FL_training/
+ls
+nano fedclientres1133.out 
+cd FedAdapt
+ls
+cd FL_training/
+ls
+nano FedAdapt_serverrun.py 
+cd ..
+cd FedL
+ls
+cd FL_training/
+ls
+nano Federated_server.py 
+sar -r 1
+cd ..
+cd FedAdapt_loadclient/
+ls
+cd FL_training/
+ls
+nano FedAdapt_clientrun.py 
+nano FedAdapt_serverrun.py 
+cd ..
+cd FedAdapt
+ls
+cd FL_training/
+ls
+nano FedAdapt_serverrun.py 
+nano ../../FedL/FL_training/Federated_server.py 
+nano ../../splitfedlearning/server_run.py 
+nano ../../FedL/FL_trainingFederated_server.py 
+nano ../../FedL/FL_training/Federated_server.py 
+nano FedAdapt_serverrun.py 
+nano ../../FedL/FL_training/Federated_server.py 
+nano FedAdapt_serverrun.py 
+python3
+ls
+cd FedAdapt
+ls
+cd FL_training/
+ls
+nano FedAdapt_serverrun.py 
+nano Sever.py
+nano FedAdapt_serverrun.py 
+nano Sever.py
+nano FedAdapt_serverrun.py 
+nano Sever.py
+nano FedAdapt_serverrun.py 
+nano Sever.py
+nano ../config.py 
+nano Sever.py
+nano ../config.py 
+nano Sever.py
+nano ../config.py 
+nano Sever.py
+ls
+nano FedAdapt_serverrun.py 
+ls
+cd FedAdapt
+ls
+cd FL_training/
+ls
+nano FedAdapt_serverrun.py 
+python3 FedAdapt_serverrun.py 
+pkill -x sar
+cd ..
+ls
+mv cd FedAdapt
+cd FedAdapt
+ls
+cd dataset/
+ls
+cd ..
+rm -r dataset/
+cd ..
+mv fedadapt_data/dataset/ FedAdapt/
+cd FedAdapt
+cd FL_training/
+python3 FedAdapt_serverrun.py 
+pkill -x sar
+python3 FedAdapt_serverrun.py 
+pkill -x sar
+python3 FedAdapt_serverrun.py 
+nano FedAdapt_serverrun.py 
+nano Sever.py
+python3 FedAdapt_serverrun.py --offload True
+nano Sever.py
+python3 FedAdapt_serverrun.py --offload True
+pkill -x sar
+ls
+cd FedAdapt/RL_training/
+ls
+nano ../config.py 
+ls
+cd FedAdapt
+ls
+cd RL_training/
+ls
+nano RL_serverrun.py 
+nano ../config.py 
+ls
+cd result_cpu_mem_check/
+ls
+cd FederatedLearning/
+ls
+cd WithoutStress/
+ls
+cd iter1/
+ls
+nano rename.txt 
+ls
+cd FedAdapt
+ls
+cd FL_training/
+cd ..
+cd RL_training/
+ls
+nano RL_serverrun.py 
+nohup python3 -u RL_serverrun.py > rltrainwostr12062023.out & 
+cat rltrainwostr12062023.out 
+nano ../config.py 
+nohup python3 -u RL_serverrun.py > rltrainwostr12062023.out & 
+kill 34976
+pkill -x sar
+pkill -xsar
+pkill -x sar
+pkill -x stress-ng
+nohup python3 -u RL_serverrun.py > rltrainwostr12062023.out & 
+kill 34984
+pkill -x sar
+pkill -x python3
+nohup python3 -u RL_serverrun.py > rltrainwostr12062023.out & 
+cat rltrainwostr12062023.out 
+pkill -x python3
+pkill -x sar
+nohup python3 -u RL_serverrun.py > rltrainwostr12062023.out & 
+cat rltrainwostr12062023.out 
+ls
+cd FedAdapt
+cd RL_training/
+ls
+nano RL_serverrun.py 
+cp PPOwostress1807120623.pth ../FL_training/ 
+cd ..
+cd FL_training/
+ls
+nano FedAdapt_serverrun.py 
+nano ../config.py 
+nano Sever.py
+pkill -x sar
+nano FedAdapt_serverrun.py 
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedlwostr12062023.out & 
+cat fedlwostr12062023.out 
+ls
+nano Sever.py
+cat fedlwostr12062023.out 
+ls
+cd FedAdapt/FL_training/
+ls
+nano FedAdapt_serverrun.py 
+pkill -x sar
+ps
+pkill -x sar
+pkill -x stress-ng
+sudo wondershaper clear ens33
+cd ..
+cd RL_training/
+ls
+nano RL_clientrun.py 
+nano RL_serverrun.py 
+ls
+nohup python3 -u RL_serverrun.py > rltrain00031306.out & 
+cat rltrain00031306.out 
+pkill -x python3
+pkill -x sar
+sudo wondershaper clear ens33
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+pkill -x stress-ng
+ls
+cd FedAdapt
+ls
+cd RL_training/
+ls
+nano RL_clientrun.py 
+sudo wondershaper clear ens33
+nano RL_clientrun.py 
+nano RL_serverrun.py 
+nohup python3 -u RL_serverrun.py > rlwostr13062023.out & 
+cat rlwostr13062023.out 
+pkill -x python3
+cd FedAdapt/RL_training/
+cat rltrainwostr2421306.out 
+pkill -x sar
+pkill -x stress-ng
+ls
+cd FedAdapt/RL_training/
+ls
+pkill -x sar
+pkill -x stress-ng
+ls
+nohup python3 -u RL_clientrun rltrainwostr2421306.out & 
+pkill -x sar
+pkill -x stress-ng
+nohup python3 -u RL_clientrun > rltrainwostr2421306.out & 
+cat rltrainwostr2421306.out 
+nohup python3 -u RL_clientrun.py > rltrainwostr2421306.out & 
+cat rltrainwostr2421306.out 
+pkill -x sar
+pkill -x stress-ng
+nohup python3 -u RL_serverrun.py > rltrainwostr2421306.out & 
+cat rltrainwostr2421306.out 
+cd FedAdapt
+cd RL_training/
+ls
+cat rltrainwostr2421306.out 
+nano RL_serverrun.py 
+nohup python3 -u RL_serverrun.py > rltrainwostr2421306.out & 
+cat rltrainwostr2421306.out 
+ls
+cd FedAdapt/RL_training/
+ls
+nano rltrain00031306.out 
+nano rltrainwostr12062023.out 
+nano rltrainwostr2421306.out 
+nano rlwostr13062023.out 
+nano rltrainwostr2421306.out 
+ls
+nano rlwostr13062023.out 
+ls
+nano rltrain00031306.out 
+nano rltrainwostr12062023.out 
+nano rltrainwostr2421306.out 
+nano RL_serverrun.py 
+cp PPOwostress000313062023.pth ../FL_training/
+cd ../FL_training/
+nano FedAdapt_serverrun.py 
+pkill -x sar
+pkill -x stress-ng
+ps
+nohup python3 -u FedAdapt_serverrun.py --offload True > 
+pkill -x sar
+pkill -x stress-ng
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptwostr13061559.out & 
+cat fedadaptwostr13061559.out 
+pkill -x python3
+pkill -x sar
+ps
+pkill -x sar
+pkill -x stress-ng
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptwostrrev13061603.out & 
+cat fedadaptwostrrev13061603.out 
+nano FedAdapt_serverrun.py 
+cd ..
+ls
+cd FL_training/
+ls
+cd ..
+cd RL_training/
+ls
+nano RL_serverrun.py 
+cd ..
+cd FL_training/
+ls
+cat fedadaptwostrrev13061603.out 
+cd ..
+cd RL_training/
+ls
+nano rltrainwostr12062023.out 
+nano rltrainwostr2421306.out 
+nano rlwostr13062023.out 
+nano rltrain00031306.out 
+cd ..
+cd FL_training/
+cat fedadaptwostrrev13061603.out 
+ls
+ls | grep cpu
+ls | grep cpuout.
+ls
+cd FedAdapt_loadclient/
+ls
+cd RL_training/
+ls
+cd ..
+ls
+cd FedAdapt
+ls
+cd RL_training/
+ls
+cd ..
+ls
+cd RL_training/
+ls
+ls | grep *.py
+ls
+ls | grep py
+ls
+cd ..
+ls
+cd FL_training/
+ls
+ls | grep py
+cd FedAdapt
+ls
+cd FedAdapt
+ls
+cd FL_training/
+ls
+nano FedAdapt_serverrun.py 
+cd ..
+cd AdaptFL/
+ls
+cd FL_training/
+python3 Adapt_serverrun.py 
+pkill -x sar
+nano ../config.py 
+python3 Adapt_serverrun.py 
+nano Server.py 
+ls
+cd result_cpu_mem_check/
+ls
+cd FederatedLearning/
+ls
+cd WithoutStress/
+ls
+cd iter3/
+ls
+cd ..
+cd iter1/
+ls
+nano get_net.py 
+python3 get_net.py 
+cp get_net.py ../iter2/
+ls
+cd ..
+cd iter2/
+ls
+nano get_net.py 
+python3 get_net.py 
+cd ..
+cd iter3
+ls
+cp ../iter2/get_net.py .
+ls
+nano get_net.py 
+python3 get_net.py 
+cd ..
+ls
+cd dcml_origin_outs/
+ls
+cd nishant_output_backup
+ls
+cd ..
+cd result_cpu_mem_check/
+ls
+cd FederatedLearning/
+ls
+cd CPUStress/
+ls
+cd ..
+cd WithoutStress/
+ls
+cd iter1/
+ls
+python3 fedl_cpu_2.py 
+cp fedl_cpu_2.py fedl_av_cpu_2.py 
+ls
+nano fedl_av_cpu_2.py 
+python3 fedl_av_cpu_2.py 
+cd ..
+cd iter2
+ls
+nano fedl_cpu_2.py 
+cd ..
+cd iter1/
+ls
+cp fedl_av_cpu_2.py ../iter2/
+cd ..
+cd iter2/
+ls
+nano fedl_av_cpu_2.py 
+python3 fedl_av_cpu_2.py 
+cd ..
+cd iter3/
+ls
+cd ..
+cd iter2/
+cp fedl_av_cpu_2.py ../iter3/
+cd ../iter3/
+ls
+nano fedl_av_cpu_2.py 
+python3 fedl_av_cpu_2.py 
+python3
+cd ..
+cd iter1/
+ls
+nano fedl_av_cpu_2.py 
+python3 fedl_av_cpu_2.py 
+cd ..
+cd iter2/
+ls
+nano fedl_av_cpu_2.py 
+python3 fedl_av_cpu_2.py 
+cd ..
+cd iter3/
+nano fedl_av_cpu_2.py 
+python3
+nano fedl_av_cpu_2.py 
+python3 fedl_av_cpu_2.py 
+cd ..
+cd iter1 
+ls
+nano fedl_mem_2.py 
+cp fedl_mem_2.py fedl_mem_av_2.py
+nano fedl_mem_av_2.py 
+python3 fedl_mem_av_2.py 
+cd ..
+cd iter2/
+ls
+cp ../iter1/fedl_mem_av_2.py .
+ls
+nano fedl_mem_av_2.py 
+python3 fedl_mem_av_2.py 
+cd ..
+cd iter3/
+cp ../iter2/fedl_mem_av_2.py .
+ls
+nano fedl_mem_av_2.py 
+python3 fedl_mem_av_2.py 
+cd ..
+cd iter1/
+ls
+nano fedlearniter1wostress.txt 
+cd ..
+cd DCML_DATA_FINAL/
+ls
+cd FederatedLearning/
+ls
+cd WithoutStress/
+ls
+cd iter1/
+ls
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+cp get_net.py ../../../../result_cpu_mem_check/FederatedLearning/WithoutStress/iter1/
+ls
+nano get_net.py 
+nano fedlearniter1wostress.txt 
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+python3 get_net.py
+nano get_net.py 
+cd ..
+cd result_cpu_mem_check/
+ls
+cd FederatedLearning/
+ls
+cd WithoutStress/
+ls
+cd iter1/
+ls
+nano get_net.py 
+cp ../../../../DCML_DATA_FINAL/FederatedLearning/WithoutStress/iter1/get_net.py .
+nano get_net.py 
+ls
+nano fedl_av_cpu_2.py 
+ls
+cd ..
+ls
+cd iter2/
+ls
+cd ..
+ls
+cd iter1/
+ls
+nano get_net.py 
+python3 get_net.py 
+nano get_net.py 
+nano fedl_av_cpu_2.py 
+nano get_net.py 
+cat ~/.bash_history 
+nano ~/.bash_history 
+[A
+cd AdaptFL/
+ls
+nano config.py 
+ls
+cd FL_training/
+python3 Adapt_serverrun.py 
+nano ../config.py 
+python3 Adapt_serverrun.py 
+pkill -x sar
+python3 Adapt_serverrun.py 
+pkill -x sar
+python3 Adapt_serverrun.py 
+pkill -x sar
+python3 Adapt_serverrun.py 
+pkill -x sar
+python3 Adapt_serverrun.py 
+pkill -x sar
+pwd
+cd ../../
+ls
+cd dcml_origin_outs/
+ls
+cd nishant_output_backup
+ls
+cd fedadapt
+cd device2/
+cd FedAdapt_loadclient/FL_training/
+cat fedadapt2038304.out 
+cd ~
+pkill -x sar
+cd AdaptFL
+cd FL_training
+python3 Adapt_serverrun.py
+pkill -x sar
+cd ..
+cd AdaptFl
+cd AdaptFL
+cd FL_training
+python3 Adapt_serverrun.py
+python3
+ls
+nano Server.py 
+nano ../config.py 
+nano Adapt_serverrun.py 
+nano Server.py 
+python3 Adapt_serverrun.py 
+nano Adapt_serverrun.py 
+nano Server.py 
+pkill -x sar
+python3 Adapt_serverrun.py 
+ifconfig
+python3 Adapt_serverrun.py 
+pkill -x sar
+python3 Adapt_serverrun.py 
+cd FedAdapt/RL_training/
+python3 RL_serverrun.py 
+ls
+cd 
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+nano psoadapt1548.out 
+nano psoadapt1609304.out 
+nano psoadapt1613304.out 
+nano psoadapt1621304.out 
+cat psoadapt1621304.out 
+ls
+cd psograph/
+ls
+nano graphflpso.py 
+cd ..
+ls
+cd FedAdapt
+cd RL_training/
+ls
+nano RL_serverrun.py 
+ls
+nano RL_serverrun.py 
+sudo wondershaper clear ens33
+ls
+s
+ls
+cd FedAdapt
+ls
+cd RL_training/
+nohup python3 -u RL_clientrun.py > rl180620231509.out & 
+cat rl180620231509.out 
+pkill -x sar
+nohup python3 -u RL_serverrun.py > rl180620231509.out & 
+cat rl180620231509.out 
+kill 93769
+ls
+cd FedAdapt
+ls
+cd RL_training/
+ls
+nano RL_serverrun.py 
+nohup python3 -u RL_serverrun.py > rl16061806.out & 
+cat rl16061806.out 
+nano ../config.py 
+pkill -x sar
+ls
+pkill -x sar
+nohup python3 -u RL_serverrun.py > rl16061806.out & 
+cat rl16061806.out 
+car rl16061806.out 
+cat rl16061806.out 
+nano RL_clientrun.py 
+nano RL_serverrun.py 
+cp PPOunres18062023.pth ../FL_training/
+cd ../FL_training/
+ls
+nano FedAdapt_serverrun.py 
+cd ..
+;s
+ls
+cd FL_training/
+cd FL
+nano FedAdapt_clientrun.py 
+nano FedAdapt_serverrun.py 
+pkill -x sar
+cd ..
+cd FL_training/
+nohup python3 -u FedAdapt_clientrun.py --offload True > fedadaptunres18062023.out & 
+cat fedadaptunres18062023.out 
+pkill -x sar
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptunres18062023.out & 
+cat fedadaptunres18062023.out 
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptunres18062023.out & 
+cat fedadaptunres18062023.out 
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptunres18062023.out & 
+cat fedadaptunres18062023.out 
+cd FedAdapt
+ls
+cd FL_training/
+cat fedadaptunres18062023.out
+ls
+cd ..
+cd RL_training/
+ls
+cat fedadaptunres18062023.out
+cd ..
+cd FL_training/
+cat fedadaptunres18062023.out
+ls
+cd FedAdapt
+ls
+cd FL_training/
+ls
+nano FedAdapt_clientrun.py 
+nano FedAdapt_serverrun.py 
+ls
+cd Feder
+ls
+cd FedL
+ls
+cd FL_training/
+python3 Federated_server.py 
+ls
+cd FedL
+ls
+cd FL_training/
+ls
+cat fedunres1431906.out 
+cd ..
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+cat psoadapt1613304.out | tail -n 5
+cat psoadapt1621304.out | tail -n 5
+ls
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+cat psoadapt1621304.out 
+ls
+cd FedL
+ls
+cd FL_training/
+ls
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+sudo wondershaper clear ens33
+ls
+nohup python3 -u Federated_server.py > fedunres1431906.out & 
+cat fedunres1431906.out 
+ls
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+nano Adapt_serverrun.py 
+ls
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+cat psoJune227new.out 
+nano Server.py 
+nano ../config.py 
+ls
+nano psoadapt1621304.out 
+nano Server.py 
+ls
+nano Adapt_serverrun.py 
+nano Server.py 
+ls
+cd FedAdapt
+cd ..
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+nano psofinalpaper.out 
+cat psofinalpaper.out 
+pkill -x python3
+ls
+cd AdaptFL/
+cd FL_training/
+cat psopaperfinal.out 
+nano Server.py 
+python3
+nano Server.py 
+python3
+nano Server.py 
+python3
+nano Server.py 
+python3
+nano Server.py 
+python3
+nano Server.py 
+cat psopaperfinal.out 
+nano Server.py 
+cat Server.py | grep max_train
+nano Server.py 
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+nano Adapt_serverrun.py 
+ls
+nano Server.py 
+nohup python3 -u Adapt_serverrun.py > psonew219June23.out &
+kill 3832
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+ps
+top
+clear
+sudo wondershaper clear ens33
+nohup python3 -u Adapt_serverrun.py > psoJune227new.out & 
+cat psoJune227new.out 
+kill 3848
+sudo wondershaper clear ens33
+pkill -x sar
+pkill -x python3
+cat psoJune227new.out 
+pkill -x python3
+cat psoJune227new.out 
+ls
+pkill -x sar
+nohup python3 -u Adapt_serverrun.py > psoJune227new.out & 
+cat psoJune227new.out 
+pkill -x python3
+pkill -x sar
+top
+nohup python3 -u Adapt_serverrun.py > psoJune227new.out & 
+cat psoJune227new.out 
+pkill -x python3
+nohup python3 -u Adapt_serverrun.py > psoJune227new.out & 
+kill 35395
+nohup python3 -u Adapt_serverrun.py > psofinalpaper.out & 
+kill 35397
+pkill -x sar
+pkill -x python3
+top
+nohup python3 -u Adapt_serverrun.py > psofinalpaper.out & 
+cat psofinalpaper.out 
+pkill -x sar
+pkill -x python3
+pkill -x sar
+nohup python3 -u Adapt_serverrun.py > psopaperfinal.out & 
+cat psopaperfinal.out 
+pkill -x sar
+pkill -x python3
+pkill -x sar
+pkill -x python3
+pkill -x sar
+clear
+nohup python3 -u Adapt_serverrun.py > psopaperfinal.out & 
+cat psopaperfinal.out 
+ls
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+nano Server.py 
+python3 Adapt_serverrun.py 
+nano Server.py 
+python3
+nano Server.py 
+python3 Adapt_serverrun.py 
+pkill -x sar
+python3 Adapt_serverrun.py 
+nano Server.py 
+python3 Adapt_serverrun.py 
+nano Server.py 
+python3 Adapt_serverrun.py 
+pkill -x sar
+pkill -x python3
+pkill -x sar
+clear
+top
+clear
+nohup python3 -u Adapt_serverrun.py > psofinalpaper837.out & 
+cat psofinalpaper837.out 
+pkill -x python3
+nano Server.py 
+pkill -x sar
+nohup python3 -u Adapt_serverrun.py > psofinalpaper837.out & 
+
+cat psofinalpaper837.out 
+ps
+cat psofinalpaper837.out 
+ls
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+nano Server.py 
+cat psofinalpaper837.out 
+pkill -x sar
+pkill -x python3
+top
+nohup python3 -u Adapt_serverrun.py > psofinalpaper929.out & 
+cat psofinalpaper929.out 
+nano Server.py 
+ls
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+nano Server.py 
+cat Server.py | grep encode
+pkill -x sar
+cat Server.py | grep encode
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+nohup python3 -u Adapt_serverrun.py > psoencodenew.out & 
+cat psoencodenew.out 
+pkill -x python3
+ls
+cd AdaptFL/FL_training/
+ls
+pkill -x sar
+pkill -x python3
+nohup python3 -u Adapt_serverrun.py > psoencodenew.out & 
+cat psoencodenew.out 
+ls
+cd ..
+ls
+cd result_cpu_mem_check/
+ls
+cd FederatedLearning/
+ls
+cd result_cpu_mem_check/
+ls
+cd FederatedLearning/
+ls
+cd WithoutStress/
+ls
+cd iter1/
+ls
+python3 fedl_av_cpu_2.py 
+ls
+python3 fedl_cpu_2.py 
+ls
+cd result_cpu_mem_check/
+ls
+cd FederatedLearning/WithoutStress/iter1/
+ls
+nano cpuoutdev1.txt 
+ls
+cd result_cpu_mem_check/
+ls
+cd FedAdapt/
+ls
+cd WithoutStress/
+ls
+cd iter1
+ls
+python3 fedadapt_cpu_2.py 
+ls
+cd dcml_origin_outs/
+ls
+cd ..
+ls
+cd get_commands/
+ls
+cd ..
+ls
+cd DCML_DATA_FINAL
+ls
+cd FedAdapt
+ls
+cd WithoutStress
+ls
+cd iter1
+ls
+cat .bash_history | grep fedunres1431
+python3
+ls
+cd FedAdapt
+ls
+cd FL_training/
+ls
+nano ../config.py 
+ls
+cd python3
+python3
+cat .bash_history | cp PPO
+cat .bash_history | grep "cp\ PPO"
+pwd
+ls
+cd FedAdapt
+ls
+cd FL_training/
+cd ..
+nano vgg.py
+nano calc_net.py 
+ls
+cd Desk
+clear
+cd FedL/FL_training/
+ls
+python3 Federated_server.py 
+pkill -x sar
+python3 Federated_server.py 
+pkill -x sar
+pkill -x stress-ng
+clear
+free -m
+clear
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+ls
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+python3 Adapt_serverrun.py 
+ls
+cd FedL
+ls
+cd FL_training/
+nohup python3 -u Federated_server.py > fedlunresinclipmem.out & 
+cat fedlunresinclipmem.out 
+ls
+cd FedL/
+ls
+cd FL_training/
+ls
+nohup python3 -u Federated_server.py > fedlres24062023.out & 
+kill 35826
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+nohup python3 -u Federated_server.py > fedlres24062023.out & 
+cat fedlres24062023.out 
+ls
+cd splitfedlearning
+ls
+nano server_run.py 
+clear
+pkill -x sar
+ls
+cd splitfedlearning/
+clear
+pkill -x sar
+pkill -x stress-ng
+sudo wondershaper clear ens33
+clear
+nohup python3 -u server_run.py > sflunres250612001.out & 
+cat sflunres250612001.out 
+pkill -x python3
+pkill -x stress-ng
+clear
+pkill -x sar
+pkill -x stress-ng
+ls
+pkill -x sar
+pkill -x stress-ng
+cd splitfedlearning/
+
+cat sflunres25062023.out 
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+cd splitfedlearning/
+pkill -x python3
+nohup python3 -u server_run.py > sflunres25062023.out & 
+cat sflunres25062023.out 
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+clear
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+pkill -x sar
+nohup python3 -u server_run.py > sflunres25062023.out & 
+cat sflunres25062023.out 
+pkill -x sar
+pkill -x python3
+pkill -x sar
+pkill -x python3
+cat sflunres25062023.out 
+pkill -x sar
+pkill -x python3
+pkill -x sar
+cat sflunres25062023.out 
+cd ..
+ls
+cd sfl_data/
+ls
+mv data ../splitfedlearning/
+cd ..
+cd splitfedlearning/
+ls
+pkill -x sar
+pkill -x python3
+pkill -x sar
+ls
+pkill -x python3
+pkill -x sar
+nohup python3 -u server_run.py > sflunres25062023.out & 
+cat sflunres25062023.out 
+cat sflunres2506
+cat sflunres25062023.out 
+pkill -x sar
+pkill -x python3
+pkill -x sar
+pkill -x python3
+nohup python3 -u server_run.py > sflunres25062023.out & 
+cat sflunres25062023.out 
+exit
+rachit23
+history 
+history -a
+history
+exit
+rachit23
+history -a
+history
+echo $HISTFILE
+rachit23
+clear
+history
+echo $HISTSIZE
+echo $HISTCONTROL
+history
+history -a
+history
+history -a
+history
+history -a
+history
+ls
+cd splitfedlearning
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+history
+nohup python3 -u server_run.py > sfl250620231945res.out & 
+cat sfl250620231945res.out 
+ls
+cd splitlearning
+ls
+nano server_manage.py 
+ls
+cd splitlearning
+history 
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+pkill -x stress-ng
+cd ..
+cd sl_data/
+ls
+cd ..
+mv sl_data/data/ splitlearning/
+cd sl_data/
+ls
+cd ..
+cd splitlearning/
+ls
+python3 server_manage.py 
+pkill -x sar
+python3 server_manage.py 
+pkill -x sar
+sudo wondershaper clear ens33
+python3 server_manage.py 
+pkill -x sar
+python3 server_manage.py 
+pkill -x sar
+python3 server_manage.py 
+pkill -x sar
+python3 server_manage.py 
+pkill -x sar
+pkill -x python3
+history 
+pkill -x python3
+cd splitlearning/
+ls
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u server_manage.py > slres2506233final.out & 
+cat server_manage.py 
+cat slres2506233final.out
+history
+cat slres2506233final.out
+ls
+cd splitlearning
+cat slres2506233final.out 
+cd splitlsarning
+cd splitlearning
+cat slres2506233final.out 
+cd splitlearning
+cat slres2506233final.out 
+pkill -x sar
+cd splitlearning
+cat slres2506233final.out 
+cd ..
+cd FedAdapt
+ls
+cd FL_training/
+ls
+cd ..
+cd RL_training/
+ls
+nano RL_serverrun.py 
+history
+cd ..
+cd FL_training/
+python3 FedAdapt_serverrun.py 
+pkill -x sar
+nano ../config.py 
+python3 FedAdapt_serverrun.py 
+pkill -x sar
+python3 FedAdapt_serverrun.py 
+pkill -x sar
+nano ../config.py 
+pkill -x sar
+clear
+cd ..
+cd RL_training/
+cd ..
+sudo wondershaper clear ens33
+cd FedAdapt
+ls
+cd RL_training/
+ls
+nano RL_clientrun.py 
+ls
+cd FedAdapt
+ls
+cd Fl
+cd FL_training/
+l
+ls
+cd ..
+cd RL_training/
+ls
+nano RL_serverrun.py 
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+nohup python3 -u RL_serverrun.py > rlwostr26062023.out & 
+cat rlwostr26062023.out 
+nano ../config.py 
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+sudo wondershaper clear ens33
+nohup python3 -u RL_serverrun.py > rlwostr26062023.out & 
+cat rlwostr26062023.out 
+nano RL_serverrun.py 
+cp PPOres26062023.pth ../FL_training/
+history
+cd ../FL_training/
+nano FedAdapt_serverrun.py 
+cd ..
+cd FL_training/
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nano FedAdapt_serverrun.py 
+nohup python3 -u FedAdapt_serverrun.py > fedadaptwostr260620231806.out &
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+bash ps
+ps
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptwostr260620231806.out &
+cat fedadaptwostr260620231806.out 
+nano FedAdapt_clientrun.py 
+nano FedAdapt_serverrun.py 
+history
+cd FedAdapt
+cd RL_training/
+ls
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nano RL_serverrun.py 
+sudo wondershaper clear ens33
+history
+nohup python3 -u RL_serverrun.py > rlcpustress123327062023.out & 
+cat rlcpustress123327062023.out 
+ps
+cat rlcpustress123327062023.out 
+pkill -x python3
+pkill -x sar
+ps
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+sudo wondershaper clear ens33
+nohup python3 -u RL_serverrun.py > rlcpustress123327062023.out & 
+cat rlcpustress123327062023.out 
+nano RL_serverrun.py 
+cp PPOcpures27062023.pth ../FL_training/
+history
+cd ../FL_training/
+nano FedAdapt_serverrun.py 
+clear
+cd ..
+cd FL_training/
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+ps
+nano FedAdapt_serverrun.py 
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptcpustress27062023.out & 
+cat fedadaptcpustress27062023.out 
+cd FedAdapt/FL_training
+cat fedadaptcpustress27062023.out
+cd FedAdapt/FL_training/
+ls
+nano FedAdapt_serverrun.py 
+python3
+python3 FedAdapt_serverrun.py --offload True
+pkill -x sar
+python3 FedAdapt_serverrun.py --offload True
+pkill -x sar
+ls
+cd FedAdapt/RL_training/
+ls
+nano RL_train
+nano RL_serverrun.py 
+nohup python3 -u RL_serverrun.py > rlnetstress27062023.out & 
+kill 45009
+pkill -x sar
+pkill -x python3
+pkill -x sar
+pkill -x python3
+pkill -x stres--ng
+pkill -x stres-ng
+pkill -x stres--ng
+pkill -x stress--ng
+pkill -x stress-ng
+pkill -x stress--ng
+pkill -x stress-ng
+nohup python3 -u RL_serverrun.py > rlnetstress27062023.out & 
+cat rlnetstress27062023.out 
+pkill -x python3
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+pkill -x sar
+pkill -x python3
+nohup python3 -u RL_serverrun.py > rlnetstress27062023.out & 
+cat rlnetstress27062023.out 
+nano RL_serverrun.py 
+pkill -x python3
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+nohup python3 -u RL_serverrun.py > rlnetstress27062023.out & 
+cat rlnetstress27062023.out 
+cd ..
+ls
+cd FL_training/
+ls
+cd ..
+cd RL_training/
+ls
+nano RL_serverrun.py 
+cp PPOnetres270620231831.pth ../FL_training/
+history
+cd ..
+cd FL_training/
+nano FedAdapt_clientrun.py 
+nano FedAdapt_serverrun.py 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptnetstress195327062023.out & 
+cat fedadaptnetstress195327062023.out 
+cat FedAdapt_serverrun.py 
+history
+history -a 
+history
+clear
+pkill -x sar
+pkill -x ar
+ls
+cd splitlearning/
+ls
+pkill -x sar
+pkill -x stress-ng
+sudo wondershaper clear ens33
+nohup python3 -u server_manage.py > slwostr28062023111.out & 
+cat slwostr28062023111.out 
+pkill -x python3
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+pkill -x stress-ng'
+pkill -x stress-ng
+cd splitlearning
+cat slwostr28062023111.out 
+cd splitlearning
+cat slwostr28062023111.out 
+ls
+cd splitlearning
+ls
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+sudo wondershaper clear ens33
+ifconfig
+nohup python3 -u server_manage.py > slwostr28062023111.out & 
+cat slwostr28062023111.out 
+cd splilearnong
+cd splilearning
+cd splitlearning
+cat slwostr28062023111.out 
+ls
+cd FedAdapt
+cd RL_training/
+ls
+nano RL_serverrun.py 
+pkill -x sar
+nano RL_serverrun.py 
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+nohup python3 -u RL_serverrun.py > rlmemstress290620230045.out & 
+cat rlmemstress290620230045.out 
+history -a
+cat ~/.bash_history | tail -n 5
+cat rlmemstress290620230045.out 
+pkill -x python3
+nano ../config.py 
+pkill -x sar
+cd FedAdapt
+ls
+cd FL_training/
+cd ..
+cd RL_training/
+history
+cat ~/.bash_history 
+history -a
+cat ~/.bash_history 
+nohup python3 -u RL_clientrun.py > rlmemstress290620230045.out & 
+pkill -x python3
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+pkill -x python3
+pkill -x stress-ng
+nohup python3 -u RL_clientrun.py > rlmemstress290620230045.out & 
+cat rlmemstress290620230045.out 
+pkill -x stress-ng
+pkill -x python3
+pkill -x sar
+nohup python3 -u RL_serverrun.py > rlmemstress290620230045.out & 
+cat rlmemstress290620230045.out 
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u RL_serverrun.py > rlmemstress290620230045.out & 
+cat ~/.bash_history 
+nohup python3 -u RL_serverrun.py > rlmemstress290620230045.out & 
+cat rlmemstress290620230045.out 
+pkill -x sar
+pkill -x stress-ng
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u RL_serverrun.py > rlmemstress290620230045.out & 
+cat rlmemstress290620230045.out 
+cat ~/.bash_history 
+history -a
+cat ~/.bash_history 
+cat rlmemstress290620230045.out 
+nano RL_serverrun.py 
+cp PPOmemstress29062023.pth ../FL_training/
+history -a
+cd ../FL_training/
+nano FedAdapt_serverrun.py 
+nano ../RL_training/RL_serverrun.py 
+nano FedAdapt_serverrun.py 
+pkill -x sar
+nano FedAdapt_serverrun.py 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+ls
+nano FedAdapt_serverrun.py 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptmemstress290620232019.out & 
+cat fedadaptmemstress290620232019.out 
+ls
+cd FedAdapt
+ls
+cd FL_training/
+cat fedadaptmemstress290620232019.ou
+pkill -x sar
+nano FedAdapt_serverrun.py 
+nano Sever.py
+nano ../../splitlearning/socket_server.py
+nano FedAdapt_serverrun.py 
+nano Sever.py
+nano ../config.py 
+nano Sever.py
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nano ../config.py 
+nano FedAdapt_serverrun.py 
+nano Sever.py
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptmemstress45629062023.out & 
+cat fedadaptmemstress45629062023.out 
+pkill -x sar
+cd FedAdapt_loadclient/
+nano config.py 
+cd ..
+cd FedAdapt
+nano config.py 
+pkill -x sar
+history -a
+ls
+cd FedAdapt
+ls
+cd FL_training/
+ls
+nano FedAdapt_serverrun.py 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+history -a
+cd FL_training/
+nano FedAdapt_serverrun.py 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptmemstress10629062023.out & 
+cat fedadaptmemstress10629062023.out 
+pkill -x sar
+nano ../config.py 
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptmemstress41929062023.out & 
+cat fedadaptmemstress41929062023.out 
+pkill -x python3
+pkill -x sar
+pkill -x stress-ng
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptmemstress41929062023.out & 
+kill 20251
+pkill -x stress-ng
+pkill -x sar
+pkill -x python3
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptmemstress41929062023.out & 
+cat fedadaptmemstress41929062023.out 
+pkill -x sar
+nano FedAdapt_serverrun.py 
+pkill -x sar
+pkill -x stress-ng 
+pkill -x python3
+pkill -x stress-ng 
+pkill -x python3
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptmemstress55929062023.out & 
+cat fedadaptmemstress55929062023.out 
+pkill -x sar
+nano ../config.py 
+nano FedAdapt_serverrun.py 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptmemstress7329062023r99.out & 
+cat fedadaptmemstress7329062023r99.out 
+history -a
+cat ~/.bash_history 
+ls
+cd FedAdapt/RL_training/
+ls
+nano RL_serverrun.py 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nohup python3 -u RL_serverrun.py > rlunres22102906.out & 
+cat rlunres22102906.out 
+nano ../config.py 
+nohup python3 -u RL_serverrun.py > rlunres22102906.out & 
+cat rlunres22102906.out 
+nano RL_serverrun.py 
+ls
+nano RLEnv.py 
+nano RL_serverrun.py 
+ls
+nano RL_serverrun.py 
+cp PPOunres22062906.pth ../FL_training/
+cd ..
+cd FL_training/
+ls
+nano FedAdapt_clientrun.py 
+nano FedAdapt_serverrun.py 
+nano ../RL_training/RL_serverrun.py 
+nano FedAdapt_serverrun.py 
+pkill -x sar
+pkill -x stress-ng
+pkill -x python3
+nano ../config.py 
+nano FedAdapt_clientrun.py 
+nano FedAdapt_serverrun.py 
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptunresfinal23082906.out & 
+cat fedadaptunresfinal23082906.out 
+pkill -x python3
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+nano Sever.py
+pkill -x sar
+pkill -x python3
+pkill -x stress-ng
+nohup python3 -u FedAdapt_serverrun.py --offload True > fedadaptunresfinal23082906.out & 
+cat fedadaptunresfinal23082906.out 
+cat cpuout.txt | head -n 5
+nano FedAdapt_serverrun.py 
+cd ..
+ls
+cd AdaptFL/
+ls
+cd FL_training/
+ls
+;s
+ls
+cd 
+ls
+cd AdaptFL/
+cd FL_training/
+pkill -x sar
+cd FL_training/
+pkill -x sar
+pkill -x stress-ng
+sudo wondershaper clear ens33
+nohup python3 -u Adapt_serverrun.py > psofinalpapersubmit30062023106.out & 
+cat psofinalpapersubmit30062023106.out 
+ls
+cat Adapt_serverrun.py 
+history -a

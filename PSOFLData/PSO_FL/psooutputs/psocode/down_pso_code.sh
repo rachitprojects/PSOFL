@@ -1,0 +1,22 @@
+scp rachit@10.10.0.4:/home/rachit/AdaptFL/FL_training/Adapt_serverrun.py ./Adapt_serverrun.py
+scp ubunturecover@192.168.10.47:/home/ubunturecover/Desktop/AdaptFL/FL_training/Adapt_clientrun.py ./psocode1ip47.out
+scp fedtest4@192.168.10.23:/home/fedtest4/Desktop/AdaptFL/FL_training/Adapt_clientrun.py ./psocode2ip23.out
+scp rachit@192.168.10.44:/home/rachit/Desktop/AdaptFL/FL_training/Adapt_clientrun.py ./psocode3ip44.out
+scp aicfed@192.168.10.49:/home/aicfed/Desktop/AdaptFL/FL_training/Adapt_clientrun.py ./psocode4ip49.out
+scp aicfed@192.168.10.28:/home/aicfed/Desktop/AdaptFL/FL_training/Adapt_clientrun.py ./psocode5ip28.out
+scp aicfed@192.168.10.22:/home/aicfed/Desktop/AdaptFL/FL_training/Adapt_clientrun.py ./psocode6ip22.out
+scp aicfed@192.168.10.24:/home/aicfed/Desktop/AdaptFL/FL_training/Adapt_clientrun.py ./psocode7ip24.out
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/FL_training/Adapt_clientrun.py ./psocode8ip54.out
+scp rachit@192.168.10.40:/home/rachit/Desktop/AdaptFL/FL_training/Adapt_clientrun.py ./psocode9ip40.out
+scp aicfed@192.168.10.21:/home/aicfed/Desktop/AdaptFL/FL_training/Adapt_clientrun.py ./psocode10ip21.out
+
+scp ubunturecover@192.168.10.47:/home/ubunturecover/Desktop/AdaptFL/utils.py ./psocodeutil1ip47.out
+scp fedtest4@192.168.10.23:/home/fedtest4/Desktop/AdaptFL/utils.py ./psocodeutil2ip23.out
+scp rachit@192.168.10.44:/home/rachit/Desktop/AdaptFL/utils.py ./psocodeutil3ip44.out
+scp aicfed@192.168.10.49:/home/aicfed/Desktop/AdaptFL/utils.py ./psocodeutil4ip49.out
+scp aicfed@192.168.10.28:/home/aicfed/Desktop/AdaptFL/utils.py ./psocodeutil5ip28.out
+scp aicfed@192.168.10.22:/home/aicfed/Desktop/AdaptFL/utils.py ./psocodeutil6ip22.out
+scp aicfed@192.168.10.24:/home/aicfed/Desktop/AdaptFL/utils.py ./psocodeutil7ip24.out
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/AdaptFL/utils.py ./psocodeutil8ip54.out
+scp rachit@192.168.10.40:/home/rachit/Desktop/AdaptFL/utils.py ./psocodeutil9ip40.out
+scp aicfed@192.168.10.21:/home/aicfed/Desktop/AdaptFL/utils.py ./psocodeutil10ip21.out

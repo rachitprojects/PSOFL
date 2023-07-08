@@ -1,0 +1,11 @@
+scp rachit@10.10.0.4:/home/rachit/FedL/FL_training/memout.txt ./memoutserve.txt
+scp ubunturecover@192.168.10.47:/home/ubunturecover/Desktop/FedL/FL_training/memout.txt ./memoutdev1.txt
+scp fedtest4@192.168.10.23:/home/fedtest4/Desktop/FedL/FL_training/memout.txt ./memoutdev2.txt
+scp rachit@192.168.10.44:/home/rachit/Desktop/FedL/FL_training/memout.txt ./memoutdev3.txt
+scp aicfed@192.168.10.49:/home/aicfed/Desktop/FedL/FL_training/memout.txt ./memoutdev4.txt
+scp aicfed@192.168.10.28:/home/aicfed/Desktop/FedL/FL_training/memout.txt ./memoutdev5.txt
+scp aicfed@192.168.10.18:/home/aicfed/Desktop/FedL/FL_training/memout.txt ./memoutdev6.txt
+scp aicfed@192.168.10.11:/home/aicfed/Desktop/FedL/FL_training/memout.txt ./memoutdev7.txt
+scp aicfed@192.168.10.54:/home/aicfed/Desktop/FedL/FL_training/memout.txt ./memoutdev8.txt
+scp rachit@192.168.10.40:/home/rachit/Desktop/FedL/FL_training/memout.txt ./memoutdev9.txt
+scp aicfed@192.168.10.21:/home/aicfed/Desktop/FedL/FL_training/memout.txt ./memoutdev10.txt
