@@ -19,9 +19,6 @@ machine. This will appear in the user column of ```sar -u 1 ```
 
 This includes making modifications to utils.py and to time.strftime("%I:%M:%S") wherever it appears in the code. 
 
-We have also included the data published in our paper in the folder labelled PSOFLData/ . It contains script to obtain the CPU utilisations of each of the 
-framework from sar's output, including the data format in which it takes input. 
-
 Kindly contact us if you have any issues with this or if you are unable to deploy our code on your systems. 
 
 We may be reached at : 
