@@ -21,6 +21,8 @@ This includes making modifications to utils.py and to time.strftime("%I:%M:%S") 
 
 Kindly contact us if you have any issues with this or if you are unable to deploy our code on your systems. 
 
+Particle Swarm Optimization was partially adopted from https://machinelearningmastery.com/a-gentle-introduction-to-particle-swarm-optimization/
+
 Should our paper have been of use to you. Kindly cite the paper as follows : 
 
 Verma, R., Benedict, S. (2023). AdaptPSOFL: Adaptive Particle Swarm Optimization-Based Layer Offloading Framework for Federated Learning. In: Shakya, S., Tavares, J.M.R.S., Fernández-Caballero, A., Papakostas, G. (eds) Fourth International Conference on Image Processing and Capsule Networks. ICIPCN 2023. Lecture Notes in Networks and Systems, vol 798. Springer, Singapore. https://doi.org/10.1007/978-981-99-7093-3_40
