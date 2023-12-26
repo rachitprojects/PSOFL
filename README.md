@@ -2,9 +2,7 @@
 
 In this repository is contained the official code of our paper : AdaptPSOFL: Adaptive Particle Swarm Optimization-Based Layer Offloading Framework for Federated Learning
 
-
-We have posted the code for our paper in this repository. This repository consists of code to execute three frameworks, 
-classic Federated Learning, FedAdapt and our original Framework PSO FL. 
+This repository consists of code to execute three frameworks, classic Federated Learning, FedAdapt and our original Framework PSO FL. 
 
 In order to reproduce the results of our paper, setup 10
 Virtual Machines with the configurations that have been discussed in the paper. 
